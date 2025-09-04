@@ -19,4 +19,7 @@ export const feeds = [
 
   // 404media
   'https://www.404media.co/rss'
+
+  // Footyheadlines
+  'https://www.footyheadlines.com/rss.xml'
 ]
