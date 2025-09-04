@@ -27,6 +27,7 @@ jobs:
           
       - name: Commit changes
         run: |
+          git pull
           git config --local user.email "sudojumble@attackdog.digital"
           git config --local user.name "sudojumble"
           git add -A
