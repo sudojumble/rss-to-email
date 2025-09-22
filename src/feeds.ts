@@ -18,7 +18,7 @@ export const feeds = [
   'https://rss.beehiiv.com/feeds/lSfumbrEGk.xml',
 
   // 404media
-  'https://www.404media.co/rss'
+  'https://www.404media.co/rss',
 
   // Footyheadlines
   'https://www.footyheadlines.com/rss.xml'
