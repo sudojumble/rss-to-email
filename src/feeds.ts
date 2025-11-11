@@ -20,6 +20,9 @@ export const feeds = [
   // 404media
   'https://www.404media.co/rss',
 
+  // TIGR Threat Watch
+  'https://sra.io/category/tigr/feed',
+
   // Footyheadlines
   'https://www.footyheadlines.com/rss.xml'
 ]
