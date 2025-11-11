@@ -5,9 +5,6 @@ export const feeds = [
   // BleepingComputer
   'https://www.bleepingcomputer.com/feed/',
 
-  // Perception Point
-  'https://perception-point.io/blog/category/attack-trends/feed/',
-
   // Nicola Suter
   'https://tech.nicolonsky.ch/index.xml',
 
