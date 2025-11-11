@@ -23,6 +23,9 @@ export const feeds = [
   // TIGR Threat Watch
   'https://sra.io/category/tigr/feed',
 
+  // Unit42
+  'https://unit42.paloaltonetworks.com/category/threat-research/rss',
+
   // Footyheadlines
   'https://www.footyheadlines.com/rss.xml'
 ]
