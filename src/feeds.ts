@@ -24,5 +24,8 @@ export const feeds = [
   'https://unit42.paloaltonetworks.com/category/threat-research/rss',
 
   // Footyheadlines
-  'https://www.footyheadlines.com/rss.xml'
+  'https://www.footyheadlines.com/rss.xml',
+
+  // Entra.news
+  'https://rss.app/feeds/hC6psAQ1GLUMrmSN.xml'
 ]
