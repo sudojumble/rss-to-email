@@ -11,6 +11,9 @@ export const feeds = [
   // Jan Bakker
   'https://janbakker.tech/feed/',
 
+  // Jeffrey Appel
+  'https://jeffreyappel.nl/feed/',
+
   // VulnU
   'https://rss.beehiiv.com/feeds/lSfumbrEGk.xml',
 
@@ -23,9 +26,12 @@ export const feeds = [
   // Unit42
   'https://unit42.paloaltonetworks.com/category/threat-research/rss',
 
+  // Entra.news
+  'https://rss.app/feeds/hC6psAQ1GLUMrmSN.xml',
+  
   // Footyheadlines
   'https://www.footyheadlines.com/rss.xml',
 
-  // Entra.news
-  'https://rss.app/feeds/hC6psAQ1GLUMrmSN.xml'
+  // NHL Rumors
+  'https://www.prohockeyrumors.com/feed'
 ]
