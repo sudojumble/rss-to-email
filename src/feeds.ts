@@ -2,9 +2,6 @@ export const feeds = [
 
   // Microsoft Security Research Blog
   'https://www.microsoft.com/en-us/security/blog/content-type/research/rss',
-  
-  // FourCore
-  'https://feeds.feedburner.com/fourcore/84qwrnfiny4',
 
   // BleepingComputer
   'https://www.bleepingcomputer.com/feed/',
